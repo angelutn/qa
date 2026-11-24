@@ -1,4 +1,4 @@
-# QA Portfolio – Ángel Novo
+# QA Portfolio – Angel Novo
 
 ## Sobre mí
 
